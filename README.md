@@ -116,6 +116,18 @@ CAGR             : 11.23%
 - Multi-asset portfolio simulation
 
 
+
+## Screenshots
+
+<img width="982" height="514" alt="1" src="https://github.com/user-attachments/assets/320e9159-f32c-476b-8898-d6baf8682d5c" />
+
+<img width="979" height="525" alt="2" src="https://github.com/user-attachments/assets/67201f66-92b3-44ef-8f12-9ee55f2ed615" />
+
+<img width="979" height="512" alt="3" src="https://github.com/user-attachments/assets/1b9aaed4-1b7d-4200-a619-7ddc0587c385" />
+
+<img width="684" height="588" alt="4" src="https://github.com/user-attachments/assets/de80f48c-a065-4fac-a868-14f947dd9f61" />
+
+
 ## Disclaimer
 
 This tool is for educational purposes only.
