@@ -127,7 +127,19 @@ It does not provide financial advice. Please consult a certified financial advis
 
 Contributions are welcome!
 
-Fork the repo
-Create a new branch
-Make your changes
-Submit a pull request
+- Fork the repo
+- Create a new branch
+- Make your changes
+- Submit a pull request
+
+
+## License
+
+This project is licensed under the MIT License.
+
+
+## Author
+
+Abhinav Dixit
+
+Python Developer | Data & ML Enthusiast
