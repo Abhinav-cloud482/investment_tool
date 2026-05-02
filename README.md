@@ -127,6 +127,12 @@ CAGR             : 11.23%
 
 <img width="684" height="588" alt="4" src="https://github.com/user-attachments/assets/de80f48c-a065-4fac-a868-14f947dd9f61" />
 
+<img width="981" height="519" alt="1" src="https://github.com/user-attachments/assets/c4627936-7008-436a-8ed5-ada0bf0f12a0" />
+
+<img width="269" height="110" alt="Saved Output 1" src="https://github.com/user-attachments/assets/ac22a063-6ab2-4f80-801e-1e597b6291b4" />
+
+<img width="829" height="375" alt="Saved Output 2" src="https://github.com/user-attachments/assets/df0e9881-6367-45dc-bf75-2bc1ff8f1eac" />
+
 
 ## Disclaimer
 
