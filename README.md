@@ -119,6 +119,8 @@ CAGR             : 11.23%
 
 ## Screenshots
 
+# investment_tool  project images
+
 <img width="982" height="514" alt="1" src="https://github.com/user-attachments/assets/320e9159-f32c-476b-8898-d6baf8682d5c" />
 
 <img width="979" height="525" alt="2" src="https://github.com/user-attachments/assets/67201f66-92b3-44ef-8f12-9ee55f2ed615" />
@@ -143,7 +145,10 @@ CAGR             : 11.23%
 
 
 
+#  updated_investment_tool_1  project images
 
+
+<img width="980" height="523" alt="1" src="https://github.com/user-attachments/assets/333b2833-4ab1-4862-aa19-379c573b739b" />
 
 
 ## Disclaimer
