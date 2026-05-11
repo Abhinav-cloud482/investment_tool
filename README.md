@@ -151,6 +151,14 @@ CAGR             : 11.23%
 <img width="980" height="523" alt="1" src="https://github.com/user-attachments/assets/333b2833-4ab1-4862-aa19-379c573b739b" />
 
 
+
+#  updated_investment_tool_2.py project images
+
+
+<img width="980" height="511" alt="output" src="https://github.com/user-attachments/assets/ce62c653-ab3d-4d50-94a6-57e6efa978f3" />
+
+
+
 ## Disclaimer
 
 This tool is for educational purposes only.
